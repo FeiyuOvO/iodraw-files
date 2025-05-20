@@ -29,7 +29,7 @@
           <mxGeometry x="775" y="142" width="103" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-9" value="罚款类型信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="195" width="92" height="38" as="geometry" />
+          <mxGeometry x="-87" y="232" width="92" height="38" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-10" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="810" y="-40" width="80" height="76" as="geometry" />
