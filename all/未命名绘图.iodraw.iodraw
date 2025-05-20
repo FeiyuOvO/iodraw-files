@@ -14,10 +14,10 @@
           <mxGeometry x="725" y="92" width="103" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#333333;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="735" y="102" width="103" height="45" as="geometry" />
+          <mxGeometry x="495" y="329" width="103" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#333333;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
-          <mxGeometry x="553" y="156" width="103" height="45" as="geometry" />
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-5" value="会议信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#333333;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="495" y="127" width="103" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-6" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#333333;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="103" height="45" as="geometry" />
