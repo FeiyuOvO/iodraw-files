@@ -164,8 +164,8 @@
             <mxPoint x="207" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-61" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="382" y="170" width="80" height="62" as="geometry" />
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-61" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="501" y="215" width="80" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
