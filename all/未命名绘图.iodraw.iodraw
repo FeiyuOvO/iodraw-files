@@ -67,8 +67,8 @@
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-28" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="215" y="145" width="80" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-29" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;rotation=-15;" vertex="1" parent="1">
-          <mxGeometry x="375" y="253" width="80" height="62" as="geometry" />
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-29" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;rotation=35;" vertex="1" parent="1">
+          <mxGeometry x="366" y="277" width="80" height="62" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-30" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="372" y="160" width="80" height="62" as="geometry" />
