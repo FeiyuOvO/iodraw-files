@@ -25,11 +25,6 @@
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-7" value="部门信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="210" y="75" width="103" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wlT0cT-x7qHW3E-KA_-7-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255.33326551649293" y="290.88885498046875" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-8" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="210" y="232" width="103" height="45" as="geometry" />
         </mxCell>
@@ -91,6 +86,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="23" y="313" as="sourcePoint" />
             <mxPoint x="97" y="281" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-48" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="45" y="291" as="sourcePoint" />
+            <mxPoint x="107" y="291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
