@@ -73,7 +73,7 @@
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-30" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="372" y="160" width="80" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-31" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-31" value="拥有" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="372" y="380" width="80" height="62" as="geometry" />
         </mxCell>
       </root>
