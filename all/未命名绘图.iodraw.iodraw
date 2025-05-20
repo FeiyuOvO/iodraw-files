@@ -230,10 +230,20 @@
             <mxPoint x="237" y="421" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-83" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wlT0cT-x7qHW3E-KA_-7-64">
+          <mxGeometry x="-0.015" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-65" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="wlT0cT-x7qHW3E-KA_-7-4" target="wlT0cT-x7qHW3E-KA_-7-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="185" y="431" as="sourcePoint" />
             <mxPoint x="247" y="431" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-81" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wlT0cT-x7qHW3E-KA_-7-65">
+          <mxGeometry x="0.1995" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-66" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#ffffff;" edge="1" parent="1" source="wlT0cT-x7qHW3E-KA_-7-34" target="wlT0cT-x7qHW3E-KA_-7-2">
@@ -252,6 +262,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="215" y="461" as="sourcePoint" />
             <mxPoint x="277" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-82" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wlT0cT-x7qHW3E-KA_-7-68">
+          <mxGeometry x="0.3613" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-70" value="角色信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
