@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="24.7.17">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1558" dy="1028" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1558" dy="628" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,33 +30,6 @@
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-9" value="罚款类型信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#ffffff;strokeColor=#666666;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-87" y="232" width="92" height="38" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-10" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="810" y="-40" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-16" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="810" y="-34" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-17" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-24" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-14" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-19" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="840" y="-4" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-20" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="850" y="6" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="860" y="16" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-22" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="870" y="26" width="80" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-23" value="" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="882" y="30" width="80" height="76" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-25" value="管理" style="rhombus;whiteSpace=wrap;html=1;fillStyle=solid;fillColor=#000000;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="67" y="220" width="80" height="62" as="geometry" />
