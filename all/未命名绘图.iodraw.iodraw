@@ -7,10 +7,10 @@
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-1" value="请假单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#000000;strokeColor=#666666;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="853" y="474" width="103" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-2" value="罚款单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#000000;strokeColor=#666666;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-2" value="罚款单" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="853" y="357" width="103" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wlT0cT-x7qHW3E-KA_-7-3" value="报销单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#000000;strokeColor=#666666;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="wlT0cT-x7qHW3E-KA_-7-3" value="报销单" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="853" y="236" width="103" height="45" as="geometry" />
         </mxCell>
         <mxCell id="wlT0cT-x7qHW3E-KA_-7-4" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;fontColor=#000000;strokeColor=#666666;fillStyle=solid;labelBackgroundColor=default;" vertex="1" parent="1">
